@@ -4,8 +4,8 @@
 
 /* html is set to 62.5% so that all the REM measurements are based on 10px sizing. So basically 1.5rem = 15px */
 html {
-  /* font-size: 62.5%; */
-  font-size: 80%;
+  font-size: 62.5%;
+  /* font-size: 80%; */
 }
 body {
   font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
@@ -98,8 +98,8 @@ html {
   background-size:cover;
 }
 body {
-  /* max-width:800px; */
-  max-width:1200px;
+  max-width:800px;
+  /* max-width:1200px; */
   margin:25px auto;
 }
 header, #content, footer { 
