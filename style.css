@@ -92,12 +92,11 @@ blockquote p:last-child {
  */
 
 /* Full size background image */
-/** DEL
 html, #container, .inner { background-color:transparent;}
 html {
   background:url(background.jpg) center center no-repeat fixed;
   background-size:cover;
-*/
+
 }
 body {
   max-width:800px;
