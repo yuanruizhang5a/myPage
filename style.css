@@ -109,11 +109,10 @@ header, #content {
   padding:25px;
   color:#FFFFFF; 
 }
-
 footer { 
   /* DEL background: rgba(0,0,0,.8); */
   background: rgba(0,0,0,0); 
-  padding:25px;
+  padding:35px;
   color:#FFFFFF; 
 }
 
