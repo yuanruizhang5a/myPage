@@ -103,7 +103,14 @@ body {
   /* max-width:1200px; */
   margin:25px auto;
 }
-header, #content, footer { 
+header, #content { 
+  /* DEL background: rgba(0,0,0,.8); */
+  background: rgba(0,0,0,.5); 
+  padding:25px;
+  color:#FFFFFF; 
+}
+
+footer { 
   /* DEL background: rgba(0,0,0,.8); */
   background: rgba(0,0,0,0); 
   padding:25px;
