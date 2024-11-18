@@ -105,7 +105,7 @@ body {
 }
 header, #content, footer { 
   /* DEL background: rgba(0,0,0,.8); */
-  background: rgba(0,0,0,.5); 
+  background: rgba(0,0,0,0); 
   padding:25px;
   color:#FFFFFF; 
 }
